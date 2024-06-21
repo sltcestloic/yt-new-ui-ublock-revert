@@ -2,7 +2,7 @@
 
 Copy / paste into uBlock origin > dashboard > My filters
 
-Most of those are from https://lifehacker.com/tech/how-to-undo-youtubes-terrible-new-layout, I added a few lines to remove the the comment teaser and the buttons I don't use
+Most of those are from https://lifehacker.com/tech/how-to-undo-youtubes-terrible-new-layout, I added a few filters to remove the the comment teaser and the buttons I don't use
 
 ```
 ! Youtube New UI Fix
